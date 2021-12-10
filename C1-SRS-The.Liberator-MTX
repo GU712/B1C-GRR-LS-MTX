@@ -17,22 +17,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre> 		
 </item>		
 		
-<item>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Liberator (2020)[/B][/COLOR]</title>		
-<link>NOLINK$nome=[COLOR orange][B] The Liberator - (2020)[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 4 EPs [/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:uojc7uwgx45g6e75p37x2scgsbgtfctc$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Liberator - HD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:735ec90a399438cec37a968b031efc88a29ad128$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Liberator - FHD LEG [/B][/COLOR]</link>		
+<item>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Liberator (2020) HD DUB[/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:uojc7uwgx45g6e75p37x2scgsbgtfctc</link>	
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>		
 <info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>		
-<genre>GUERRA</genre>  		
-</item>		
+<genre>GUERRA</genre>  	 	
+</item>	
+	
+<item>	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Liberator (2020) FHD DUAL [/B][/COLOR]</title>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:735ec90a399438cec37a968b031efc88a29ad128</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>		
+<info> história verídica da marcha mais sangrenta e dramática para a vitória dos Aliados na Segunda Guerra Mundial: a odisseia do campo de batalha do oficial do Exército dos EUA, Felix Sparks, e sua unidade de infantaria enquanto lutavam por mais de quinhentos dias para libertar a Europa. O drama de combate seguirá Sparks (Bradley James) e o 157º Regimento de Infantaria de Oklahoma, uma unidade da Guarda Nacional composta principalmente de cowboys, nativos americanos e mexicano-americanos da invasão da Itália à liberação do campo de concentração de Dachau.</info>		
+<genre>GUERRA</genre>  	 	
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
 <item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]The Liberator (2020) - HD DUB[/B][/COLOR]</title>		
-<link>NOLINK$nome=[COLOR orange][B] The Liberator (2020)[/B][/COLOR]</link>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]The Liberator (2020) HD DUB[/B][/COLOR]</title>		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 4 EPs [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Liberator/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Por Que Lutamos [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/3-GRR/The.Liberator/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Uma Palavra - Anzio [/B][/COLOR]</link>		

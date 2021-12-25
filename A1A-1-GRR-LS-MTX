@@ -112,10 +112,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>					
 <title>[COLOR white][B]Guerra Sob a Terra (2021)[/B][/COLOR]</title>					
 <link>plugin://plugin.video.youtube/play/?video_id=UlGA14yTMBk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Guerra Sob a Terra[/B][/COLOR]</link>					
-					
-link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>					
-					
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerra Sob a Terra - HD DUAL[/B][/COLOR]</link>					
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerra Sob a Terra - HD DUAL[/B][/COLOR]</link>					
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSOMIA2GNYJIV3D6MJOXI7PFNV5AE6U4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Guerra Sob a Terra - FHD DUAL[/B][/COLOR]</link>					
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Guerra.Sob.a.Terra.2021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Guerra Sob a Terra - FDH DUAL[/B][/COLOR]</link>					
 <thumbnail>https://www.themoviedb.org/t/p/original/ndOvtUxWiCAF6QsVajGidQJeZTM.jpg</thumbnail>					
@@ -188,7 +185,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>  					
 </item>					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX					
-					
+
+<item>
+<title>[B][COLOR white]Rin Tin Tin: O Filme (2007)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7jJkoDLVA3s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Rin Tin Tin - O Filme[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/1GR/LS-Procurando.Rin.Tin.Tin.2007.HD.dub.avi$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Rin Tin Tin - O Filme - HD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kfknWtUmyp9YVbpuyvptG2J47pl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3fQUiCElQX8osWqsLhMzKqQOGDH.jpg</fanart>
+<info>Durante a I Guerra Mundial, em 1918, na França, um soldado americano encontra uma família de cachorros e decide ficar com um dos filhotes, Rin Tin Tin. </info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>					
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>					
 					

@@ -129,7 +129,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>
+<title>[B][COLOR white]A Raposa do Deserto (1951)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MMX-Yb9P6Tk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Raposa do Deserto[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-A.Raposa.do.Deserto.1951.HD.LG-FX.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Raposa do Deserto - LEGFIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Us4N4N8lDIacN1JgoFXf0eP0vj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ezfezjXNPKTFMFCpsAyoHQdozjq.jpg</fanart>
+<info>Rommel,conhecido como a Raposa do Deserto. Ao ver que Hitler estava levando a Alemanha à destruição, uniu-se a conspiradores para depor o Fürher.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]Assassinos de Guerra (2019)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=xG1XRRjQBxc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Assassinos de Guerra[/B][/COLOR]</link>				

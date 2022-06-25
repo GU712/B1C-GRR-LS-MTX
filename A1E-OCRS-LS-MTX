@@ -83,23 +83,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
-<item>		
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>		
+<item>
+<title>[COLOR white][B]O Homem do Prego (1965)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4BA3K8kTzNs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Homem do Prego[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-Homem.do.prego.1964.HD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem do Prego - HD DUB/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g5VvIkNE9EqjteEwvYXNfMSr1dx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yeB31t1ej9h4jPGU5Ey7RXuHdao.jpg</fanart>
+<info>Único da família a escapar de um campo de concentração nazista, o judeu Sol Nazerman agora tenta reconstruir a vida nos EUA como comerciante.</info>
+<genre>DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>		
-		
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>		
-		
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>		
-		
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>		
-		
-<thumbnail><ICONEDOFILME></thumbnail>		
-<fanart><FUNDODOFILME></fanart>		
-<info><SINOPSEDOFILME></info>		
-<genre>GUERRA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
 <item>		
 <title>[COLOR black].[/COLOR]</title>		

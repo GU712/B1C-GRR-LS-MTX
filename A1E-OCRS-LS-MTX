@@ -46,7 +46,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre> 		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+
+<item>
+<title>[COLOR white][B]Filhos da Guerra (1990)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nAlbpuQixHU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Filhos da Guerra[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-Europa.Europa..1990.SD.LEGFIX.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Filhos da Guerra - SD LEG FIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jRr8h2KuFCxQGzaewyCiFR4TgIa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/46cEGaYfPBc9kxdhMbgmn0e1856.jpg</fanart>
+<info>Para escapar do holocausto um garoto judeu tera que se tornar um herói nazista.</info>
+<genre>DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>		
 <title>[COLOR white][B]Fugindo do Inferno (1963)[/B][/COLOR]</title>		
 <link>plugin://plugin.video.youtube/play/?video_id=r9Q_WESQUVw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fugindo do Inferno[/B][/COLOR]</link>		

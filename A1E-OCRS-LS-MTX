@@ -93,8 +93,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>DRAMA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-		
-		
+
+<item>
+<title>[COLOR white][B]O Leitor (2008)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rbHm3KoJP5Q$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Leitor[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-O.Leitor.2008.FHD.LEG-FIX.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Leitor - FHD LEG-FIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aD8nlC1zd7nVRFlXm9N1txOCDtw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eEbpcjFB82UltV5nEmRQ2Qc79rA.jpg</fanart>
+<info>Na Alemanha pós-2ª Guerra Mundial o adolescente Michael Berg se envolve, por acaso, com Hanna Schmitz, uma mulher que tem o dobro de sua idade.</info>
+<genre>DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
 <item>		
 <title>[COLOR black].[/COLOR]</title>		
 <link>ignoreme</link>		

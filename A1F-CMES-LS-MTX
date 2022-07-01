@@ -167,7 +167,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Um major rebelde e uma fama de resolver as coisas recebe a ordem de entrevistar prisioneiros militares, condenados à morte ou à prazo longo, para uma perigosa missão em troca de perdão. O objetivo é saltar de paraquedas atrás das linhas inimigas e causar estragos para os generais alemães que estarão em uma casa de repouso, na véspera do Dia D.</info>						
 <genre>GUERRA</genre>						
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
-						
+
+<item>
+<title>[COLOR white][B]Só os Valentes Voltaram (1970)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zgWFr9wv1oo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]So os Valentes Voltaram[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.McKenzie.Break%20.1970.FHD.LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]So os Valentes Voltaram - FHD LEG FIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nLNDK7bOoYP4wInxxbtfrbhbWfV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/oA1ZRMcs5muKXVStdeB29tOfT4V.jpg</fanart>
+<info>Os prisioneiros de guerra alemães na Grã-Bretanha conspiram para escapar de seu campo de prisioneiros na Escócia. </info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>						
 <title>[COLOR white][B]Tobruk (1967)[/B][/COLOR]</title>						
 <link>plugin://plugin.video.youtube/play/?video_id=h3hcxQjfJJc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tobruk[/B][/COLOR]</link>						
@@ -179,25 +190,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>						
 </item>						
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
-						
-<item>						
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>						
-						
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>						
-						
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>						
-						
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>						
-						
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>						
-						
-<thumbnail><ICONEDOFILME></thumbnail>						
-<fanart><FUNDODOFILME></fanart>						
-<info><SINOPSEDOFILME></info>						
-<genre>GUERRA</genre>						
-</item>						
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
-						
+												
 <item>						
 <title>[COLOR black].[/COLOR]</title>						
 <link>ignoreme</link>						

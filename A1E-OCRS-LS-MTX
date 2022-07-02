@@ -104,7 +104,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>DRAMA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+
+<item>
+<title>[COLOR white][B]O Pianista (2002)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6NXjPxA_z0Q$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Pianista[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dedad97cddfa63ca64d79f1736555e6bf8a4460$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Pianista - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/OC-RS/LS-O.Pianista.2002.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Pianista - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xSFMkNIuxq78dWgCO7Okpc1STj3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1XqIhsqnAozznGhxlGdI0GPcCro.jpg</fanart>
+<info>Um pianista judeu polonês vê Varsóvia mudar gradualmente à medida que a Segunda Guerra Mundial começa. </info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>		
 <title>[COLOR black].[/COLOR]</title>		
 <link>ignoreme</link>		

@@ -135,23 +135,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
-<item>				
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>				
-				
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>				
-				
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>				
-				
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>				
-				
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUB[/B][/COLOR]</link>				
-				
-<thumbnail><ICONEDOFILME></thumbnail>				
-<fanart><FUNDODOFILME></fanart>				
-<info><SINOPSEDOFILME></info>				
-<genre>GUERRA</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR white][B]Verdade e Honra (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qn5birtLRk8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Verdade e Honra[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3574ff0f028bf8e745da6b7e18de8f20f173d5bb$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Verdade e Honra - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/VIET/LS-Verdade.e.Honra.2020.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Verdade e Honra - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wiWxWuOoWKpygNHR5q3sciuvC1U.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7Tx0xLPRzoyuiFHuz0BXqMPMCDA.jpg</fanart>
+<info> Quando um veterano pede para reavaliarem o pedido de Honra ao Mérito negado a um amigo que morreu no Vietnã, Scott vai investigar.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+			
 				
 <item>				
 <title>[COLOR black].[/COLOR]</title>				
